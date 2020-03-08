@@ -6,9 +6,6 @@
   "scripts": {
     "test": "hello test"
   },
-  "husky": {
-    "pre-commit": "npm test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coconilu/action-demo.git"
