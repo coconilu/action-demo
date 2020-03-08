@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/coconilu/action-demo#readme",
   "devDependencies": {
-    "husky": "^4.2.3"
+    "husky": "^4.2.1"
   }
 }
